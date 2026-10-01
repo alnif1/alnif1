@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="240" viewBox="0 0 480 240">
+<style>
+  .t { font-family: ui-monospace, monospace; font-size: 13px; }
+  .user { fill: #58a6ff; font-weight: bold; }
+  .key { fill: #7ee787; font-weight: bold; }
+  .val { fill: #c9d1d9; }
+  .fade { opacity: 0; animation: f 0.4s ease-out forwards; }
+  @keyframes f { to { opacity: 1; } }
+</style>
+<rect width="100%" height="100%" fill="#0d1117" rx="6" stroke="#30363d"/>
+<g class="fade" style="animation-delay: 0.1s;">
+  <text x="20" y="32" class="t user">alnif1@github</text>
+  <text x="20" y="48" class="t val">-----------------------------</text>
+</g>
+<g class="fade" style="animation-delay: 0.25s;">
+  <text x="20" y="72" class="t key">OS:</text>
+  <text x="110" y="72" class="t val">Linux / Cloud-Native</text>
+</g>
+<g class="fade" style="animation-delay: 0.35s;">
+  <text x="20" y="96" class="t key">Host:</text>
+  <text x="110" y="96" class="t val">alnif1-box</text>
+</g>
+<g class="fade" style="animation-delay: 0.45s;">
+  <text x="20" y="120" class="t key">Role:</text>
+  <text x="110" y="120" class="t val">Cloud &amp; DevOps Engineer</text>
+</g>
+<g class="fade" style="animation-delay: 0.55s;">
+  <text x="20" y="144" class="t key">Stack:</text>
+  <text x="110" y="144" class="t val">Python, Docker, K8s, CI/CD, Azure/OCI</text>
+</g>
+<g class="fade" style="animation-delay: 0.65s;">
+  <text x="20" y="168" class="t key">Interests:</text>
+  <text x="110" y="168" class="t val">DevSecOps, Platform Eng, AI Automation</text>
+</g>
+<g class="fade" style="animation-delay: 0.75s;">
+  <text x="20" y="192" class="t key">Status:</text>
+  <text x="110" y="192" class="t val">Building scalable cloud infra</text>
+</g>
+</svg>

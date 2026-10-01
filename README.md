@@ -1,16 +1,16 @@
-## Hi there 👋
+﻿<div align="center">
 
-<!--
-**alnif1/alnif1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3><code>alnif1@github ~ $ ./contributions.sh</code></h3>
+<img src="./contrib-heatmap.svg" width="730" />
 
-Here are some ideas to get you started:
+<br><br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3><code>alnif1@github ~ $ whoami</code></h3>
+<table>
+  <tr>
+    <td valign="top"><img src="./ascii.svg" width="340" /></td>
+    <td valign="top"><img src="./info-card.svg" width="380" /></td>
+  </tr>
+</table>
+
+</div>
