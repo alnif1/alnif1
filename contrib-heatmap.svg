@@ -328,8 +328,8 @@
 <rect class="box" x="605" y="98" width="10" height="10" fill="#161b22" rx="2" style="animation-delay: 0.705s;"/>
 <rect class="box" x="618" y="20" width="10" height="10" fill="#161b22" rx="2" style="animation-delay: 0.690s;"/>
 <rect class="box" x="618" y="33" width="10" height="10" fill="#161b22" rx="2" style="animation-delay: 0.695s;"/>
-<rect class="box" x="618" y="46" width="10" height="10" fill="#0e4429" rx="2" style="animation-delay: 0.700s;"/>
-<rect class="box" x="618" y="59" width="10" height="10" fill="#161b22" rx="2" style="animation-delay: 0.705s;"/>
+<rect class="box" x="618" y="46" width="10" height="10" fill="#161b22" rx="2" style="animation-delay: 0.700s;"/>
+<rect class="box" x="618" y="59" width="10" height="10" fill="#0e4429" rx="2" style="animation-delay: 0.705s;"/>
 <rect class="box" x="618" y="72" width="10" height="10" fill="#161b22" rx="2" style="animation-delay: 0.710s;"/>
 <rect class="box" x="618" y="85" width="10" height="10" fill="#161b22" rx="2" style="animation-delay: 0.715s;"/>
 <rect class="box" x="618" y="98" width="10" height="10" fill="#161b22" rx="2" style="animation-delay: 0.720s;"/>
@@ -373,4 +373,5 @@
 <rect class="box" x="696" y="46" width="10" height="10" fill="#161b22" rx="2" style="animation-delay: 0.790s;"/>
 <rect class="box" x="696" y="59" width="10" height="10" fill="#161b22" rx="2" style="animation-delay: 0.795s;"/>
 <rect class="box" x="696" y="72" width="10" height="10" fill="#161b22" rx="2" style="animation-delay: 0.800s;"/>
+<rect class="box" x="696" y="85" width="10" height="10" fill="#161b22" rx="2" style="animation-delay: 0.805s;"/>
 </svg>
